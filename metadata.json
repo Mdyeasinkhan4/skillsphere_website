@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SkillSphere",
+  "description": "SkillSphere is an advanced full-stack social learning and community platform featuring user profiles, community feeds, file sharing, real-time comments, ratings, event management with maps, and server-side Gemini AI recommendation engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
